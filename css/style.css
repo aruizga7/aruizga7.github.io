@@ -890,7 +890,43 @@ margin-right: -2px;
 
 
 
+.pn-logo-image {
+	margin: 0;
+	padding: 0;
+	display: block;
+	max-width: none !important;
+	height: auto !important;
+}
+
+.flag {
+	display: table
+}
+
+.flag-img,.flag-bd {
+	display: table-cell;
+	vertical-align: middle
+}
+
+.flag-img {
+	white-space: nowrap
+}
+
+.flag-expand {
+	width: 100%
+}
 
 
+.pn-nav-search-input {
+  border-color: #333333;
+  
+  background: #2a2a2a; /* Old browsers */
+  background: transparent -webkit-linear-gradient(top, #101010 0,#2a2a2a 35px, #eeeeee 150px, #ffffff 185px); /* Chrome10+,Safari5.1+ */
+  background: transparent linear-gradient(to bottom,  #101010 0,#2a2a2a 35px, #eeeeee 150px, #ffffff 185px); /* W3C */
+  background-position: left top;
+  background-size: 100% 185px;	
+  }
 
+.pn-nav-search-input[required] {
+  box-shadow: none;
+}
 
