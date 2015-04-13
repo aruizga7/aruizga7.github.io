@@ -5,14 +5,14 @@ oss_projects['TitanicShinyApplication'] = {
   position: 3,
   background: 'dockersh_bg.png'
 }
-oss_projects['TitanicShinyApplication'] = {
+oss_projects['Twitter-Bluemix-R-Shiny-App'] = {
   blog_post: 'http://engineeringblog.yelp.com/2014/07/introducing-moe-metric-optimization-engine-a-new-open-source-machine-learning-service-for-optimal-ex.html',
   featured: true,
   position: 1,
   logo: 'moe_logo.png',
   background: 'moe_bg.png'
 };
-oss_projects['TitanicShinyApplication'] = {
+oss_projects['Titanic-Shiny-ForBluemix'] = {
   blog_post: 'http://engineeringblog.yelp.com/2010/10/mrjob-distributed-computing-for-everybody.html',
   featured: true,
   position: 2,
