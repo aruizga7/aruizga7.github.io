@@ -1,5 +1,5 @@
 oss_projects = {};
-oss_projects['dockersh'] = {
+oss_projects['TitanicShinyApplication'] = {
   blog_post: 'http://engineeringblog.yelp.com/2014/08/hack209-dockersh.html',
   featured: true,
   position: 3,
