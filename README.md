@@ -1,7 +1,5 @@
-# yelp.github.io
+Portal for IBM open source at GitHub http://ibm.github.io.
 
-Source code for our opensource site showcasing all of our opensource projects.
+Visit us at https://hub.jazz.net/project/kellrman/IBMGitHubOrg.
 
-## License
-
-This is licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
+[Contact us](mailto:hub@jazz.net)
