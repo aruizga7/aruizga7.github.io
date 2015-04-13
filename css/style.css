@@ -539,5 +539,195 @@ margin-right: -2px;
 
 
 
+.pn-btn-small {
+	padding: .5em 0.8em
+}
+
+.pn-btn-primary,.pn-btn-secondary {
+	color: #fff !important
+}
+
+.pn-btn-primary {
+	background-color: #2980b9
+}
+
+.pn-btn-primary:hover,.pn-btn-primary:focus {
+	background-color: #3498db
+}
+
+.pn-btn-secondary {
+	background-color: #1e9439
+}
+
+.pn-btn-secondary:hover,.pn-btn-secondary:focus {
+	background-color: #3bc967
+}
+
+.pn-btn-ibm {
+	background-color: #dbdbdb;
+	color: #000 !important;
+	border-color: #ccc;
+	font-weight: bold;
+	background-image: -webkit-linear-gradient(top, rgba(255, 255, 255, 0.6)
+		0%, rgba(255, 255, 255, 0) 100% );
+	background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.6) 0%,
+		rgba(255, 255, 255, 0) 100% )
+}
+
+.pn-btn-ibm:hover,.pn-btn-ibm:focus {
+	background-color: #EEE
+}
+
+.pn-dw-master {
+	font-size: 11px;
+	border-top: 1px solid #666666;
+	border-bottom: 1px solid #000;
+	background: #131624;
+	background: -webkit-linear-gradient(top, #131624 0%, #1d1c28 100%);
+	background: linear-gradient(to bottom, #131624 0%, #1d1c28 100%);
+	padding: 0 5px 0 20px
+}
+
+.pn-dw-fed-logo {
+	color: #fff !important;
+	padding: 3px 0;
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif
+}
+
+.pn-dw-ibm {
+	color: #47B2DC !important
+}
+
+.pn-login-link {
+	float: left;
+	padding: 3px 15px 3px;
+	height: 100%;
+	border-left: 1px solid #333
+}
+
+.pn-login-link .arrow {
+	border-left-width: 4px;
+	border-right-width: 4px;
+	vertical-align: 0
+}
+
+.pn-dw-tab {
+	border-left: 1px solid #333;
+	float: right;
+	padding-left: 5px
+}
+
+.pn-dw-tab img {
+	display: block;
+	margin-top: -1px
+}
+
+
+
+
+
+
+
+
+.pn-top-menu {
+	font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial, sans-serif;
+  font-weight: 200;
+  border-top-color: #999999;
+  background: #1c1c1e; /* Old browsers */
+  background: -webkit-linear-gradient(top, #51535b 0%,#1c1c1e 100%); /* Chrome10+,Safari5.1+ */
+  background: linear-gradient(to bottom, #51535b 0%, #1c1c1e 100%); /* W3C */
+    border-bottom-color: #222222;
+}
+
+.pn-nav-search-input {
+  border-color: #333333;
+  
+  background: #2a2a2a; /* Old browsers */
+  background: transparent -webkit-linear-gradient(top, #101010 0,#2a2a2a 35px, #eeeeee 150px, #ffffff 185px); /* Chrome10+,Safari5.1+ */
+  background: transparent linear-gradient(to bottom,  #101010 0,#2a2a2a 35px, #eeeeee 150px, #ffffff 185px); /* W3C */
+  background-position: left top;
+  background-size: 100% 185px;	
+  }
+
+.pn-nav-search-input[required] {
+  box-shadow: none;
+}
+
+.pn-nav-home,
+.pn-top-menu .menu-item {
+  line-height: 2;
+  white-space: nowrap;
+}
+
+.pn-nav-home {
+	display: block;
+	font-size: 1em;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	font-weight: bold;
+	text-shadow: 0 1px #333333;
+	margin-right: 2.75em;
+	margin-left: 2.2em;
+}
+
+.pn-logo-image {
+	margin: 0;
+	padding: 0;
+	display: block;
+	max-width: none !important;
+	height: auto !important;
+}
+
+.pn-top-menu .menu-item {
+  float:left; /* use float, not inlines, to avoid line-breaks between words */
+	margin-right: 2em;
+	}
+
+.pn-search {
+}
+
+.pn-btn {
+  color: #fff !important;
+}
+
+.pn-btn,
+.pn-btn-primary {
+  background-color: #2980b9;
+}
+
+.pn-btn:hover,
+.pn-btn:focus,
+.pn-btn-primary:hover,
+.pn-btn-primary:focus {
+  background-color: #3498db;
+}
+
+.pn-btn-secondary { 
+  background-color: #1e9439;
+}
+
+.pn-btn-secondary:hover,
+.pn-btn-secondary:focus {
+  background-color: #3bc967;
+}
+
+
+.pn-btn-nav-menu {
+  vertical-align: middle;
+  padding-left: 1.428571429em;
+  padding-right: 1.428571429em;
+}
+
+
+
+
+
+
+
+
+
 
 
