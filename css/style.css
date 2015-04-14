@@ -539,91 +539,6 @@ margin-right: -2px;
 
 
 
-.pn-btn-small {
-	padding: .5em 0.8em
-}
-
-.pn-btn-primary,.pn-btn-secondary {
-	color: #fff !important
-}
-
-.pn-btn-primary {
-	background-color: #2980b9
-}
-
-.pn-btn-primary:hover,.pn-btn-primary:focus {
-	background-color: #3498db
-}
-
-.pn-btn-secondary {
-	background-color: #1e9439
-}
-
-.pn-btn-secondary:hover,.pn-btn-secondary:focus {
-	background-color: #3bc967
-}
-
-.pn-btn-ibm {
-	background-color: #dbdbdb;
-	color: #000 !important;
-	border-color: #ccc;
-	font-weight: bold;
-	background-image: -webkit-linear-gradient(top, rgba(255, 255, 255, 0.6)
-		0%, rgba(255, 255, 255, 0) 100% );
-	background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.6) 0%,
-		rgba(255, 255, 255, 0) 100% )
-}
-
-.pn-btn-ibm:hover,.pn-btn-ibm:focus {
-	background-color: #EEE
-}
-
-.pn-dw-master {
-	font-size: 11px;
-	border-top: 1px solid #666666;
-	border-bottom: 1px solid #000;
-	background: #131624;
-	background: -webkit-linear-gradient(top, #131624 0%, #1d1c28 100%);
-	background: linear-gradient(to bottom, #131624 0%, #1d1c28 100%);
-	padding: 0 5px 0 20px
-}
-
-.pn-dw-fed-logo {
-	color: #fff !important;
-	padding: 3px 0;
-	display: inline-block;
-	*display: inline;
-	*zoom: 1;
-	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif
-}
-
-.pn-dw-ibm {
-	color: #47B2DC !important
-}
-
-.pn-login-link {
-	float: left;
-	padding: 3px 15px 3px;
-	height: 100%;
-	border-left: 1px solid #333
-}
-
-.pn-login-link .arrow {
-	border-left-width: 4px;
-	border-right-width: 4px;
-	vertical-align: 0
-}
-
-.pn-dw-tab {
-	border-left: 1px solid #333;
-	float: right;
-	padding-left: 5px
-}
-
-.pn-dw-tab img {
-	display: block;
-	margin-top: -1px
-}
 
 
 
@@ -634,15 +549,6 @@ margin-right: -2px;
 
 
 
-
-
-
-
-
-media="screen"
-.fl {
-  float: left;
-}
 
 
 a { text-decoration: none; }
@@ -764,8 +670,7 @@ a:focus,
 	margin-right: 2em;
 	}
 
-.pn-search {
-}
+
 
 .pn-btn {
   color: #fff !important;
@@ -809,27 +714,7 @@ a:focus,
 	border-top: 1px solid #999999
 }
 
-.pn-search-input {
-	-webkit-appearance: none;
-	padding: .5em 30px .5em 1em;
-	border: 2px solid #333;
-	border-radius: 20px;
-	width: 250px;
-	-moz-box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-	box-sizing: border-box;
-	font-size: 14px;
-	line-height: 1;
-	height: 2.285714286em;
-	color: #999;
-	font-family: "HelveticaNeue-Light", "Helvetica Neue Light",
-		"Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-weight: 200;
-	-webkit-transition: background .2s linear;
-	-moz-transition: background .2s linear;
-	-o-transition: background .2s linear;
-	transition: background .2s linear
-}
+
 
 .pn-header-tabbed,.pn-header-emphasis {
 	background: #fafafa;
@@ -972,17 +857,5 @@ a:focus,
 }
 
 
-.pn-nav-search-input {
-  border-color: #333333;
-  
-  background: #2a2a2a; /* Old browsers */
-  background: transparent -webkit-linear-gradient(top, #101010 0,#2a2a2a 35px, #eeeeee 150px, #ffffff 185px); /* Chrome10+,Safari5.1+ */
-  background: transparent linear-gradient(to bottom,  #101010 0,#2a2a2a 35px, #eeeeee 150px, #ffffff 185px); /* W3C */
-  background-position: left top;
-  background-size: 100% 185px;	
-  }
 
-.pn-nav-search-input[required] {
-  box-shadow: none;
-}
 
