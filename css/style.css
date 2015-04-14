@@ -14,23 +14,7 @@ src: url('/fonts/Lubalin/LubalinGraphStd-Medium.otf') format('opentype');
 }
 
 
-@font-face
-{
-	font-family: 'Helvetica-Neue-Hv';
-	src: url('/fonts/helvneue/HelveticaNeueLTStd-Hv.otf') format('opentype');
-}
 
-@font-face
-{
-	font-family: 'Helvetica Neue';
-	src: url('/fonts/helvneue/HelveticaNeueLTStd-Th.otf') format('opentype');
-}
-
-@font-face
-{
-	font-family: 'Helvetica-Neue-Md';
-	src: url('/fonts/helvneue/HelveticaNeueLTStd-Md.otf') format('opentype');
-}
 
 .jumbotron
 {
