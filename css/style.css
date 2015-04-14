@@ -752,7 +752,9 @@ margin-right: -2px;
 	border-bottom: 1px solid #222222;
 	border-top: 1px solid #999999
 }
-
+.pn-nav-search-input[required] {
+  box-shadow: none;
+}
 .pn-search-input {
 	-webkit-appearance: none;
 	padding: .5em 30px .5em 1em;
