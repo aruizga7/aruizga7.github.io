@@ -932,3 +932,19 @@ margin-right: -2px;
   box-shadow: none;
 }
 
+.flag {
+	display: table
+}
+
+.flag-img,.flag-bd {
+	display: table-cell;
+	vertical-align: middle
+}
+
+.flag-img {
+	white-space: nowrap
+}
+
+.flag-expand {
+	width: 100%
+}
